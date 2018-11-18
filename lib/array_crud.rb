@@ -5,7 +5,7 @@ def create_an_array
  [] 
 end
 
-def soda_type ("sprite", "coke","pepsie")
+def soda_type = ("sprite", "coke","pepsie")
   
 end
 
