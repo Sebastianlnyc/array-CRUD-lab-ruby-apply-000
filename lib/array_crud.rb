@@ -1,12 +1,7 @@
 []
-def create_an_array
- [] 
-end
 [sprite, coke, pepsie, orange]
   
-end
-
-def soda_type = ("sprite", "coke","pepsie") #push
+#push
   
 end
 
