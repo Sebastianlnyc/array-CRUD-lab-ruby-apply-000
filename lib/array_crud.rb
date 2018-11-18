@@ -1,11 +1,9 @@
 []
 [sprite, coke, pepsie, orange]
   
-#push
   
 end
 
-#pop
   
 end
 
