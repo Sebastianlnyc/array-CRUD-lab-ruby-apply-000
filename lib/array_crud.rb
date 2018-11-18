@@ -5,7 +5,7 @@
   
 end
 
-def soda_type = ("sprite", "coke","pepsie") #pop
+#pop
   
 end
 
