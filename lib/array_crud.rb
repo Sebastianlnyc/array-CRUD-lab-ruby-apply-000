@@ -13,7 +13,7 @@ def soda_type = ("sprite", "coke","pepsie" #push)
   
 end
 
-def remove_element_from_end_of_array(array)
+def soda_type = ("sprite", "coke","pepsie") #pop
   
 end
 
