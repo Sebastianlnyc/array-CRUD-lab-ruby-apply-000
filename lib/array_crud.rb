@@ -9,7 +9,7 @@ def soda_type = ("sprite", "coke","pepsie")
   
 end
 
-def 
+def soda_type = ("sprite", "coke","pepsie") #push
   
 end
 
